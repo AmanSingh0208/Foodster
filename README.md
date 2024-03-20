@@ -24,5 +24,8 @@ Click on the link below to install the app.
 
 https://drive.google.com/file/d/1t1YF9ewy-H3yd38qa-HAd0-IJPXB1ciU/view?usp=drive_link
 
+## Logo
+
+![studio](https://github.com/AmanSingh0208/Foodster/assets/154224641/f8c7637f-7f67-444a-abb3-c504d9d48e51)
 
     
